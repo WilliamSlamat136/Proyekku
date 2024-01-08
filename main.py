@@ -12,4 +12,4 @@ if word in meme_dict.keys():
     print(meme_dict[word])
 else:
     # Apa yang harus kita lakukan jika kata itu tidak ditemukan?
-    print("Kata Kamus Tidak Ada.")
+    print("Kata Kamus tidak ada.")
